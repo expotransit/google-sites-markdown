@@ -4,9 +4,9 @@ const styles = `
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   margin: 0;
-  color: #24292f;
-  background-color: #ffffff;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  color: #121212;
+  background-color: #f3f3f3;
+  font-family: "merriweather";
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
